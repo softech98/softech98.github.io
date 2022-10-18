@@ -8,7 +8,7 @@ landing page ini masih dalam tahap pengembangan
  *Ornamen by Rawpixel.com* [freepik](http://www.freepik.com). 
 
 > for view
-site is published at [Pawiwahan Lannding Page](https://parta99.github.io/) :innocent:
+site is published at [Pawiwahan Lannding Page](https://softech98.github.io/) :innocent:
 
 ```ruby
 Solusi sebar undangan pernikahan mudah dengan undangan digital berbasis website. 
@@ -19,9 +19,4 @@ anda dapat mengirim Undangan semudah mengirim {pesan} chat
 ?to=I%20Gede%20Jon tambahkan pada akhir URL sebagai param untuk memunculkan Nama Undangan pada masing-masing url, 
 (sesuai Nama-Nama Tamu yang akan di Undang)
 ```
-# Social Media
-<ul>
-<li>LinkedIn :https://www.linkedin.com/in/gede-juniada/</li>
-<li>Twitter : https://twitter.com/@djna911</li>
-<li>Instagram : https://www.instagram.com/djna911/</li>
-</ul>
+
