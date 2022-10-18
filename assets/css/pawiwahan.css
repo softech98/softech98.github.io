@@ -7,6 +7,18 @@
 }
 body{
   background-color: #e8ebee;
+
+}
+body::after {
+  content: "";
+  opacity: 0.3;
+  background: url(../../assets/images/ornam/bg.jpg);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
 }
 .jumbotron {
   padding: 6rem 1rem;
@@ -50,19 +62,20 @@ img.card-img-top {
   margin-top: 20px;
 }
 #protokol {
-  background-image: url(../../assets/images/ornam/Asset5.png);
+  /*background-image: url(../../assets/images/ornam/Asset5.png);*/
   background-size: initial;
   background-repeat: no-repeat;
   background-position: top 3px center;
 }
 #galeri,#lokasi,#pesan,#gift{
-  background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset5a.png);
+  /*background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset5a.png);*/
   background-size: initial;
   background-repeat: no-repeat,no-repeat;
   background-position: top 1px center, bottom 0px center;
 }
 #about{
-  background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset9a.png);
+  /*background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset9a.png);*/
+  background-image: url(../../assets/images/ornam/1.png),url(../../assets/images/ornam/2.png);
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
@@ -72,7 +85,7 @@ img.card-img-top {
 }
 #calender{
   background-size: initial;
-  background-image: url(../../assets/images/ornam/Asset5a.png);
+  /*background-image: url(../../assets/images/ornam/Asset5a.png);*/
   background-repeat: no-repeat;
   padding-top: 25px;
   background-position: bottom 3px center;
@@ -88,19 +101,19 @@ img.card-img-top {
 }
 h1.display-12.text-center {
   padding: 4rem 0;
-  background-image: url(../../assets/images/ornam/Asset7a.png);
+  /*background-image: url(../../assets/images/ornam/Asset7a.png);*/
   background-repeat: no-repeat;
   background-position: top 15px center;
   font-size: 1.5em;
 }
 #mpl{
-  background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);
+  /*background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);*/
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
 }
 #mpw{
-  background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);
+  /*background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);*/
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
