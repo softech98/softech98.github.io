@@ -1,6 +1,6 @@
 function countdown() {
     const today = new Date();
-    var offerDate = new Date('28 sep 2022 09:00:00');
+    var offerDate = new Date('30 nov 2022 15:00:00');
 
     //If offer ends reset to new value
     if (today.getSeconds() == offerDate.getSeconds()) {
