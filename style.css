@@ -3301,7 +3301,7 @@ a.sidebar-link.active {
     --inline-code-text: #c52950;
     --inline-code-bg: #f9f2f4;
     --mask-color: #888;
-    --accent-color: #377bb5;
+    --accent-color: #e53e2f;
     --image-mask-color: transparent
 }
 
@@ -3320,7 +3320,7 @@ a.sidebar-link.active {
     --inline-code-text: #96c2eb;
     --inline-code-bg: rgba(76,86,128,0.4);
     --mask-color: #000;
-    --accent-color: #74b3eb;
+    --accent-color: #e53e2f;
     --image-mask-color: rgba(27,35,47,0.3)
 }
 
@@ -4495,7 +4495,7 @@ a.sidebar-link.active {
     --inline-code-text: #c52950;
     --inline-code-bg: #f9f2f4;
     --mask-color: #888;
-    --accent-color: #377bb5;
+    --accent-color: #e53e2f;
     --image-mask-color: transparent
 }
 
@@ -4514,7 +4514,7 @@ a.sidebar-link.active {
     --inline-code-text: #96c2eb;
     --inline-code-bg: rgba(76,86,128,0.4);
     --mask-color: #000;
-    --accent-color: #74b3eb;
+    --accent-color: #e53e2f;
     --image-mask-color: rgba(27,35,47,0.3)
 }
 
